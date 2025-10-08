@@ -1,2 +1,2 @@
 # BeymenCases
-Testinium Cases For Beymen 
+Beymen Test Cases For Testinium 
